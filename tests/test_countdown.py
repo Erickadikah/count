@@ -1,6 +1,6 @@
 import unittest
 from datetime import datetime, timedelta
-from countdown import calculate_remaining_time
+from countf.countdown import calculate_remaining_time
 
 class TestCountdown(unittest.TestCase):
     def test_remaining_time_future(self):
