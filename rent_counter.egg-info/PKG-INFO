@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: count
+Name: rent_counter
 Version: 0.1.0
 Summary: A Python library for managing rent expiration countdowns
 Home-page: https://github.com/Erickadikah/count

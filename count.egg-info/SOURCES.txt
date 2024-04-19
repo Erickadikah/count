@@ -1,7 +1,0 @@
-README.md
-setup.py
-count.egg-info/PKG-INFO
-count.egg-info/SOURCES.txt
-count.egg-info/dependency_links.txt
-count.egg-info/top_level.txt
-tests/test_countdown.py
