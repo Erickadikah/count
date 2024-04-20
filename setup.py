@@ -1,9 +1,10 @@
+import setuptools
 from setuptools import setup, find_packages
 
 setup(
-    name='rent_counter',
-    version='0.4.0',
-    py_modules=['countf.countdown'],  # Include countdown.py as a module inside the countf folder
+    name='counts',
+    version='0.0.6',
+    packages=find_packages(),
     include_package_data=True,
     description='A Python library for managing rent expiration countdowns',
     long_description=open('README.md').read(),
